@@ -1,12 +1,11 @@
-<p><img alt="Space" src="./img/space.jpeg" align="left"/></p>
+<p><img alt="Space" src="./img/space.jpeg"/></p>
 
-<!-- <h2>👋 &nbsp;Hey there! I'm Ulises</h2> -->
-# 
 ## 👋 &nbsp;Hey there! I'm Ulises
 
+I am an adventurous computer engineer with a great objective. To be the best version of myself and to contribute the greatest possible value to the world. Innovation and technologies are my passions.
 ### 👨🏻‍💻 &nbsp;About me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+💡 &nbsp;I like to explore new technologies and develop innovative software! I'm really interested in Blockchain Technologies.\
 🎓 &nbsp;I'm currently studying Computer Engineering at Universidad Politécnica de Madrid (UPM).\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Blockchain Transaction Automatization and other new technologies.\
 💬 &nbsp;Feel free to reach out to me for everything you want!\
@@ -16,27 +15,27 @@
 <!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> -->
 
 ### 🛠 &nbsp;Technologies
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 <!-- >
-![Python]
-![JavaScript]
+![PyTorch]
+![Jupyter]
+![Pandas]
+![Numpy]
+![Markdown]
 ![Java]
 ![C]
-Docker
-Latex
-Shell Script
-Gitlab
-Asana
-Jupyter
-Pandas
-Numpy
-![HTML]
-![CSS]
+![Shell Script]
 ![Git]
 ![GitHub]
-![Markdown]
+![Gitlab]
+![Linux]
+![Docker]
+![Latex]
+![Asana]
+![HTML]
+![CSS]
 ![Visual Studio Code]
 ![Eclipse]
-![Photoshop]
 
 -->
 
