@@ -17,13 +17,13 @@ I am an adventurous computer engineer with a great objective. To be the best ver
 ### 🛠 &nbsp;Technologies
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
-![Jupyter](https://img.shields.io/badge/-Jupyter-Notebook-37626?logo=jupyter&logoColor=white&style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/-Jupyter-Notebook-37626?logo=jupyter-notebook&logoColor=white&style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
 ![Numpy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
-![Shell Script](https://img.shields.io/badge/-Shell-Script-4EAA25?logo=gnu-shell&logoColor=white&style=for-the-badge)
+![Shell Script](https://img.shields.io/badge/-Shell-Script-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 ![Gitlab](https://img.shields.io/badge/-GitLab-FCA121?logo=gitlab&logoColor=white&style=for-the-badge)
@@ -31,8 +31,8 @@ I am an adventurous computer engineer with a great objective. To be the best ver
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![Latex](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white&style=for-the-badge)
 ![Asana](https://img.shields.io/badge/-Asana-273347?logo=asana&logoColor=white&style=for-the-badge)
-![Visual Studio Code](https://img.shields.io/badge/-Visual-Studio-Code-007ACC?logo=vsc&logoColor=white&style=for-the-badge)
-![Eclipse](https://img.shields.io/badge/-Eclipse-IDE-2C2255?logo=eclipse-ide&logoColor=white&style=for-the-badge)
+![Visual Studio Code](https://img.shields.io/badge/-Visual-Studio-Code-007ACC?logo=vs-code&logoColor=white&style=for-the-badge)
+![Eclipse](https://img.shields.io/badge/-Eclipse-IDE-2C2255?logo=eclipse&logoColor=white&style=for-the-badge)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge)
 
 
