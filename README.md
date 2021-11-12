@@ -1,6 +1,4 @@
-![Ulises Bértolo](https://raw.githubusercontent.com/Uliseis/Uliseis/img/space.jpeg)
-
-<img alt="Night Coding" src="./img/space.jpeg" height='800' width='400' align="left"/>
+<p><img alt="Space" src="./img/space.jpeg" height='400' width='800' align="left"/></p>
 <h2>Hey there! I'm Ulises</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Ulises -->
