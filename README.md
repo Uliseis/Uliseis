@@ -17,7 +17,7 @@ I am an adventurous computer engineer with a great objective. To be the best ver
 ### 🛠 &nbsp;Technologies
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
-![Jupyter](https://img.shields.io/badge/-Jupyter-Notebook-37626?logo=Jupyter&logoColor=white&style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/-Jupyter-Notebook-37626?logo=jupyter-F3631D.svg&logoColor=white&style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
 ![Numpy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge)
@@ -30,8 +30,8 @@ I am an adventurous computer engineer with a great objective. To be the best ver
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![Latex](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white&style=for-the-badge)
 ![Asana](https://img.shields.io/badge/-Asana-273347?logo=asana&logoColor=white&style=for-the-badge)
-![Visual Studio Code](https://img.shields.io/badge/-Visual-Studio-Code-007ACC?logo=vscode&logoColor=white&style=for-the-badge)
-![Eclipse](https://img.shields.io/badge/-Eclipse-IDE-2C2255?logo=eclipse&logoColor=white&style=for-the-badge)
+![Visual Studio Code](https://img.shields.io/badge/-Visual-Studio-Code-007ACC?logo=visual%20studio%20code&logoColor=white&style=for-the-badge)
+![Eclipse](https://img.shields.io/badge/-Eclipse-IDE-2C2255?logo=eclipse-ide&logoColor=white&style=for-the-badge)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge)
 
 
