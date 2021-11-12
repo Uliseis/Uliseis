@@ -1,4 +1,4 @@
-<p><img alt="Space" src="./img/space.jpeg" height='50%' width='50%' align="left"/></p>
+<p><img alt="Space" src="./img/space.jpeg" align="left"/></p>
 <h2>Hey there! I'm Ulises</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Ulises -->
