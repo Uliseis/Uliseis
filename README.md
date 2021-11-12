@@ -1,5 +1,5 @@
 <p><img alt="Space" src="./img/space.jpeg" align="left"/></p>
-<h2>Hey there! I'm Ulises</h2>
+<br><h2>👋 &nbsp;Hey there! I'm Ulises</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Ulises -->
 
@@ -61,6 +61,9 @@
 </p>
 
 -----
+
+<img alt="heatwave" src="./img/heatwave.gif"/></a>
+
 Profile: [Ulises Bértolo](https://github.com/ulisesbg)
 
 Last Edited on: 12/11/2021
