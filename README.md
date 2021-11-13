@@ -55,7 +55,8 @@ I am an adventurous computer engineer with a great objective. To be the best ver
 
 
 -----
-
-<img alt="heatwave" src="./img/heatwave.gif" align="center"/></a>
+<p align="center">
+<img alt="heatwave" src="./img/heatwave.gif"/></a>
+</p>
 
 [Ulises Bértolo](https://github.com/ulisesbg). All rights reserved.
