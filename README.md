@@ -38,7 +38,7 @@ I am an adventurous computer engineer with a great objective. To be the best ver
 <a href= "https://pytorch.org" target="_blank"><img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge"/></a>
 </p>
 
-<!-- ### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/Uliseis">
@@ -46,7 +46,7 @@ I am an adventurous computer engineer with a great objective. To be the best ver
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Uliseis&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
--->
+
 ### 🤝🏻 &nbsp;Reach me out!
 <p align="center">
 <a href="https://www.linkedin.com/in/ulisesbg/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
