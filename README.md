@@ -48,12 +48,9 @@ I am an adventurous computer engineer with a great objective. To be the best ver
 </p>
 -->
 ### 🤝🏻 &nbsp;Reach me out!
-
 <p align="center">
-
-<a href="https://www.linkedin.com/in/ulisesbg/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/ulisesbg/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto: usbrgr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-usbrgr@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-
 </p>
 
 
