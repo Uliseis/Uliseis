@@ -51,7 +51,7 @@ I am an adventurous computer engineer with a great objective. To be the best ver
 
 <p align="center">
 
-<a href="https://linkedin.com/in/ulisesbg" target="_blank"><img src="https://img.shields.io/badge/-Ulises-Bertolo-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/ulisesbg" target="_blank"><img src="https://img.shields.io/badge/-Ulises-Bertolo-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
 <a href="mailto: usbrgr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-usbrgr@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
 </p>
