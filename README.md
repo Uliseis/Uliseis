@@ -20,15 +20,15 @@ I am an adventurous computer engineer with a great objective. To be the best ver
 <a href= "https://pytorch.org"><img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge"/></a>
 </p>
 <p align="center">
-<a href="https://pandas.pydata.org"><img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge"/></a>
-<a href="https://numpy.org"><img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge"/></a>
-<a href="https://markdown.com"><img src="https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge"/></a>
-</p>
-<p align="center">
 <a href="https://www.java.com/es/"><img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge"/></a>
 <a href="https://www.cprogramming.com"><img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge"/></a>
 <a href="https://git-scm.com"><img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge"/></a>
 <a href="https://github.com"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/></a>
+</p>
+<p align="center">
+<a href="https://pandas.pydata.org"><img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge"/></a>
+<a href="https://numpy.org"><img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge"/></a>
+<a href="https://markdown.com"><img src="https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge"/></a>
 </p>
 <p align="center">
 <a href="https://about.gitlab.com"><img src="https://img.shields.io/badge/-GitLab-FCA121?logo=gitlab&logoColor=white&style=for-the-badge"/></a>
