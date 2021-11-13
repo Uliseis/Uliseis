@@ -41,9 +41,9 @@ I am an adventurous computer engineer with a great objective. To be the best ver
 <!-- ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/Uliseis">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Uliseis&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Uliseis&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 -->
@@ -51,7 +51,8 @@ I am an adventurous computer engineer with a great objective. To be the best ver
 
 <p align="center">
 
-<a href="https://linkedin.com/in/ulisesbg" target="_blank"><img src="https://img.shields.io/badge/-Ulises-Bertolo-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ulisesbg/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+
 <a href="mailto: usbrgr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-usbrgr@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
 </p>
