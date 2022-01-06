@@ -5,11 +5,10 @@
 I am an adventurous computer engineer with a great objective. To be the best version of myself and to contribute the greatest possible value to the world. Innovation and technologies are my passions.
 ### 👨🏻‍💻 &nbsp;About me
 
-💡 &nbsp;I like to explore new technologies and develop innovative software! I'm really interested in Blockchain Technologies.\
+💡 &nbsp;I like to explore new technologies and develop innovative software. I'm really interested in AI, Data Engineering and Blockchain Technologies.\
 🎓 &nbsp;I'm currently studying Computer Engineering at Universidad Politécnica de Madrid (UPM).\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Blockchain Transaction Automatization and other new technologies.\
-💬 &nbsp;Feel free to reach out to me for everything you want!\
-✉️ &nbsp;You can send me an email at usbrgr@gmail.com!\
+✉️ &nbsp;You can send me an email at usbrgr@gmail.com .\
 📄 &nbsp;Please have a look at my [LinkedIn Profile](https://www.linkedin.com/in/ulisesbg/) for more details about me.
 
 <!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> -->
@@ -38,6 +37,7 @@ I am an adventurous computer engineer with a great objective. To be the best ver
 <a href= "https://pytorch.org" target="_blank"><img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge"/></a>
 </p>
 
+/*
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -46,6 +46,7 @@ I am an adventurous computer engineer with a great objective. To be the best ver
   <!--<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Uliseis&layout=compact&langs_count=8&theme=algolia"/>-->
 </a>
 </p>
+*/
 
 ### 🤝🏻 &nbsp;Reach me out!
 <p align="center">
