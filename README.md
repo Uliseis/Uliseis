@@ -12,7 +12,7 @@ I am an adventurous computer engineer with a great objective. To be the best ver
 📄 &nbsp;Please have a look at my [LinkedIn Profile](https://www.linkedin.com/in/ulisesbg/) for more details about me.
 
 <!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> -->
-
+<!--
 ### 🛠 &nbsp;Technologies
 <p align="center">
 <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/></a>
@@ -36,7 +36,7 @@ I am an adventurous computer engineer with a great objective. To be the best ver
 <a href="https://markdown.com" target="_blank"><img src="https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge"/></a>
 <a href= "https://pytorch.org" target="_blank"><img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge"/></a>
 </p>
-
+-->
 <!--
 ### ⚙️ &nbsp;GitHub Analytics
 
