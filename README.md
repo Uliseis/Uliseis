@@ -6,7 +6,7 @@ I am an adventurous computer engineer with a great objective. To be the best ver
 ### &nbsp;About me
 
 &nbsp;I like to explore new technologies and develop innovative software. I'm really interested in AI, Data Engineering and Blockchain Technologies.\
-&nbsp;I'm currently studying Computer Engineering at Universidad Politécnica de Madrid (UPM).\
+&nbsp;I studied Computer Engineering at Universidad Politécnica de Madrid (UPM).\
 &nbsp;You can send me an email at usbrgr@gmail.com .\
 &nbsp;Please have a look at my [LinkedIn Profile](https://www.linkedin.com/in/ulisesbg/) for more details about me.
 
