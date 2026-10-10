@@ -2,7 +2,7 @@
 
 ## &nbsp;Welcome to my portfolio.
 
-I am an adventurous computer engineer with a great objective. To be the best version of myself and to contribute the greatest possible value to the world. Innovation and technologies are my passions.
+I am a computer engineer with a great objective. To be the best version of myself and to contribute the greatest possible value to the world. Innovation and technologies are my passions. I love building, and always thinking about what's next.
 ### &nbsp;About me
 
 &nbsp;I like to explore new technologies and develop innovative software. I'm really interested in AI, Data Engineering and Blockchain Technologies.\
